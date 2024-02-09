@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bitcoin Design Community//ical-generator//EN
+NAME:Bitcoin Design Community Calls & Events
+X-WR-CALNAME:Bitcoin Design Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:2124539974@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240221T140000Z
+DTSTART:20240221T140000Z
+DTEND:20240221T150000Z
+SUMMARY:Bitcoin Core App Design Call #79
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /634
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/634\">https://github.com/BitcoinDesign/Meta/is
+ sues/634</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/634
+END:VEVENT
+BEGIN:VEVENT
+UID:2124537877@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240214T140000Z
+DTSTART:20240214T140000Z
+DTEND:20240214T150000Z
+SUMMARY:Bitcoin Core App Design Call #78
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /633
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/633\">https://github.com/BitcoinDesign/Meta/is
+ sues/633</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/633
+END:VEVENT
+BEGIN:VEVENT
+UID:2123258064@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240215T130000Z
+DTSTART:20240215T130000Z
+DTEND:20240215T140000Z
+SUMMARY:Design Review #36: satsymbol.org
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /632
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/632\">https://github.com/BitcoinDesign/Meta/is
+ sues/632</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/632
+END:VEVENT
+BEGIN:VEVENT
+UID:2118086026@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240221T150000Z
+DTSTART:20240221T150000Z
+DTEND:20240221T160000Z
+SUMMARY:Community Call #56
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /631
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/631\">https://github.com/BitcoinDesign/Meta/is
+ sues/631</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/631
+END:VEVENT
+BEGIN:VEVENT
+UID:2118053113@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240209T130000Z
+DTSTART:20240209T130000Z
+DTEND:20240209T140000Z
+SUMMARY:Design Huddle #4
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /630
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/630\">https://github.com/BitcoinDesign/Meta/is
+ sues/630</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/630
+END:VEVENT
+BEGIN:VEVENT
+UID:2112689950@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240219T130000Z
+DTSTART:20240219T130000Z
+DTEND:20240219T140000Z
+SUMMARY:Bitcoin Design Guide Jam Session #63
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /628
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/628\">https://github.com/BitcoinDesign/Meta/is
+ sues/628</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/628
+END:VEVENT
+BEGIN:VEVENT
+UID:2083422312@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240208T080000Z
+DTSTART:20240208T080000Z
+DTEND:20240208T090000Z
+SUMMARY:Learning Bitcoin & Design #17: FROST
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /616
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/616\">https://github.com/BitcoinDesign/Meta/is
+ sues/616</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/616
+END:VEVENT
+END:VCALENDAR
